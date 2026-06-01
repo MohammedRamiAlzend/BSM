@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dac7dd4278271ee4",
+            "id": "ca5a0a302d95a529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "CH1/P1/تعريف النظام الحقيقي والنموذج ولماذا لاندرس النظام مباشرة.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "تعريف النظام الحقيقي والنموذج ولماذا لاندرس النظام مباشرة"
             }
-          }
-        ]
-      },
-      {
-        "id": "cac0cba4729ee629",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a36b1386509a25b6",
+            "id": "ee3aa64a0c497811",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6a2e9776f1b52e3f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,7 +41,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -199,8 +201,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "dac7dd4278271ee4",
+  "active": "6a2e9776f1b52e3f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "CH1/P1/أساسيات المحاكاة والنمذجة.md",
+    "CH1/P1/التحقق.md",
+    "CH1/P2/مكونات المحاكاة (في الأحداث المنفصلة).md",
+    "النمذجة.md",
+    "المحاكاة.md",
+    "CH1/P2/مثال تطبيقي محاكاة إخلاء مدرسة أثناء حريق.md",
+    "CH1/P1/تعريف النظام الحقيقي والنموذج ولماذا لاندرس النظام مباشرة.md",
+    "FEL.md",
+    "CH1/P1",
+    "CH1/P2",
+    "CH1/Untitled.base",
+    "Welcome.md",
+    "Untitled.canvas",
+    "CH1"
   ]
 }
